@@ -3,7 +3,7 @@ pathfinding==0.0.4
 Pillow==7.0.0
 py-trees==2.0.6
 pydash==4.7.6
-PyYAML==5.3
+PyYAML==5.4
 paho-mqtt==1.5.0
 Rx==3.0.1
 overrides==2.8.0
